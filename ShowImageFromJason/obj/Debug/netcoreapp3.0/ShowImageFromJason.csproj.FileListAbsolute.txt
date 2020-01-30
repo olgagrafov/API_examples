@@ -1,0 +1,13 @@
+D:\Csharp\ShowImageFromJason\bin\Debug\netcoreapp3.0\ShowImageFromJason.exe
+D:\Csharp\ShowImageFromJason\obj\Debug\netcoreapp3.0\ShowImageFromJason.csprojAssemblyReference.cache
+D:\Csharp\ShowImageFromJason\obj\Debug\netcoreapp3.0\ShowImageFromJason.AssemblyInfoInputs.cache
+D:\Csharp\ShowImageFromJason\obj\Debug\netcoreapp3.0\ShowImageFromJason.AssemblyInfo.cs
+D:\Csharp\ShowImageFromJason\bin\Debug\netcoreapp3.0\ShowImageFromJason.deps.json
+D:\Csharp\ShowImageFromJason\bin\Debug\netcoreapp3.0\ShowImageFromJason.runtimeconfig.json
+D:\Csharp\ShowImageFromJason\bin\Debug\netcoreapp3.0\ShowImageFromJason.runtimeconfig.dev.json
+D:\Csharp\ShowImageFromJason\bin\Debug\netcoreapp3.0\ShowImageFromJason.dll
+D:\Csharp\ShowImageFromJason\bin\Debug\netcoreapp3.0\ShowImageFromJason.pdb
+D:\Csharp\ShowImageFromJason\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Csharp\ShowImageFromJason\obj\Debug\netcoreapp3.0\ShowImageFromJason.csproj.CopyComplete
+D:\Csharp\ShowImageFromJason\obj\Debug\netcoreapp3.0\ShowImageFromJason.dll
+D:\Csharp\ShowImageFromJason\obj\Debug\netcoreapp3.0\ShowImageFromJason.pdb

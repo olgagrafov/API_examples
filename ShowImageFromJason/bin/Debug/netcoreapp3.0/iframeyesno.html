@@ -1,0 +1,38 @@
+<html><head>   
+    <title>Show Pictures</title>
+    <style>      
+        #NoUl, #YesUl{
+            display:none;
+        }
+        .a_button {
+            color: blue;
+            font-family: helvetica;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        object{
+            height:50%; 
+            width:100%;
+            overflow: auto;
+            border:groove;           
+        }
+    </style>
+    <script>
+        function listShow(idShow, idHide) {
+            document.getElementById(idShow).style.display = "block";
+            document.getElementById(idHide).style.display = "none";
+        }
+    </script>
+</head>
+      <body>
+          <div>
+              <a href="#" class="a_button" onclick="listShow('YesUl', 'NoUl');">YES</a>
+              <object type="text/html" data="yes_list.html" id="YesUl"></object>
+          </div>
+          <br />
+          <div>
+              <a href="#" class="a_button" onclick="listShow('NoUl', 'YesUl');">no</a>
+              <object type="text/html" data="no_list.html" id="NoUl"></object>
+          </div>
+      </body>
+</html>
